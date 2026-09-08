@@ -1,6 +1,11 @@
 {
   "version": "0.0.1",
   "configurations": [
-    { "name": "zirve", "runtimeExecutable": "python3", "runtimeArgs": ["-m","http.server","8791"], "port": 8791 }
+    {
+      "name": "zirve",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8391"],
+      "port": 8391
+    }
   ]
 }
